@@ -29,9 +29,7 @@ Welcome to my GitHub profile! I'm a B.Tech student majoring in Artificial Intell
 
 
 
-## 🌱 I'm Currently Learning
 
-I am currently dedicated to expand my skills in *LAMP (Linux, Apache, MySQL, PHP) stack for backend development*. Exploring server-side development, database management, and crafting robust web applications is my current learning journey.
 
 
 ## 🏆 Coding Profiles

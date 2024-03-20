@@ -1,7 +1,7 @@
 # 👋 Hello, I'm VISHAL SV
 
 Welcome to my GitHub profile! I'm a B.Tech student majoring in Artificial Intelligence and Data Science, passionate about exploring and contributing to the world of technology. I specialize in data science and machine learning, creating insights from data and developing predictive models to solve real-world problems.
-
+ 
 
 ## 🚀 About Me
 
